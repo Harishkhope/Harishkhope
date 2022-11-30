@@ -1,6 +1,8 @@
 <div align = "center">
 
-# Hi 👋, I'm HARISH KHOPE
+# Hi! , I'm HARISH KHOPE
+
+**welcome to harish's github profile**
 
 **A passionate web developer from India.**
 
