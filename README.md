@@ -2,9 +2,8 @@
 
 # Hi! , I'm HARISH KHOPE
 
-**welcome to harish's github profile**
+<h2>👋 Welcome to my GitHub profile! I'm Harish, a passionate Web developer on a mission to create elegant and efficient solutions to complex problems. </h2>
 
-**A passionate web developer from India.**
 
 <!-- **Languages and Tools**:
 
@@ -73,9 +72,6 @@
 
 
 [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harishkhope&theme=react-dark)](https://github.com/Harishkhope/github-readme-activity-graph)
-
-
-<img align="center" src="https://github.com/Harishkhope/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
 <!-- </div>
 <div align = "center">
