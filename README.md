@@ -75,6 +75,8 @@
 [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harishkhope&theme=react-dark)](https://github.com/Harishkhope/github-readme-activity-graph)
 
 
+<img align="center" src="https://github.com/Harishkhope/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+
 <!-- </div>
 <div align = "center">
 
@@ -92,13 +94,13 @@
 <table width="200" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://twitter.com/khope_harish"><img src="https://skillicons.dev/icons?i=twitter" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://instagram.com/_harry__k?igshid=MzNlNGNkZWQ4Mg=="><img src="https://skillicons.dev/icons?i=instagram"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.linkedin.com/in/harishkhope"><img src="https://skillicons.dev/icons?i=linkedin" width="60"></a>
     </td>
 </tr>
 </table>
