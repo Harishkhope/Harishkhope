@@ -71,8 +71,6 @@
 </table>
 
 
-[![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harishkhope&theme=react-dark)](https://github.com/Harishkhope/github-readme-activity-graph)
-
 <!-- </div>
 <div align = "center">
 
@@ -104,3 +102,4 @@
 </table>
 
 </p>
+
