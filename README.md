@@ -2,7 +2,7 @@
 
 # Hi! , I'm HARISH KHOPE
 
-<h2>👋 Welcome to my GitHub profile! I'm Harish, a passionate Web developer on a mission to create elegant and efficient solutions to complex problems. </h2>
+<h2>👋 Welcome to my GitHub profile! I'm Harish, a passionate Full Stack developer on a mission to create elegant and efficient solutions to complex problems. </h2>
 
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
