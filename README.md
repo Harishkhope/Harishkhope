@@ -7,7 +7,7 @@
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-[![An image of @harishkhope's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harishkhope)](https://holopin.io/@harishkhope)
+
 
 <!-- **Languages and Tools**:
 
