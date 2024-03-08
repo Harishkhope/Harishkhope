@@ -46,7 +46,7 @@
         <img src="https://skillicons.dev/icons?i=mysql">
     </td>
      <td align='center' width="190">
-        <img src="https://skillicons.dev/icons?i=vscode">
+        <img src="https://skillicons.dev/icons?i=docker">
     </td>
     <td align='center' width="190">
         <img src="https://skillicons.dev/icons?i=markdown">
